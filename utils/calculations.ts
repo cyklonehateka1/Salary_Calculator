@@ -33,7 +33,7 @@ export default function calculateGrossSalary(
   const employerPensionRateTier3 = 0.05; // 5%
 
   let grossSalary = desiredNetSalary + allowances; // Initial estimate
-  const maxIterations = 10000; // Increased maximum number of iterations
+  const maxIterations = 10000;
   let iterations = 0;
   let tolerance = 0.01; // Convergence tolerance
 

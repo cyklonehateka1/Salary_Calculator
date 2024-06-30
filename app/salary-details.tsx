@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Pressable, Text, TextInput, View } from "react-native";
-import calculateGrossSalary from "@/utils/calculations"; // Ensure this is the correct path
+import calculateGrossSalary from "@/utils/calculations";
 import BottomSheet from "@/components/bottom-sheet";
 
 interface InputData {
