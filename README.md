@@ -1,5 +1,8 @@
 # Welcome to the Salary Calcutor mobile app👋
+
 # Built with React Native and Expo
+
+!["Introduction page"](./assets/screenshots/index.jpg) !["input page"](./assets/screenshots/salary_calculator.jpg) !["details screen"](./assets/screenshots/details.jpg)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
