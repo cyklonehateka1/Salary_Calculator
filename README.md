@@ -2,7 +2,7 @@
 
 # Built with React Native and Expo
 
-!["Introduction page"](./assets/screenshots/index.jpg) !["input page"](./assets/screenshots/salary_calculator.jpg) !["details screen"](./assets/screenshots/details.jpg)
+!["Introduction page"](./assets/screenshots/index.jpg "width="300" "height="200") !["input page"](./assets/screenshots/salary_calculator.jpg "width="300" "height="200") !["details screen"](./assets/screenshots/details.jpg "width="300" "height="200")
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
