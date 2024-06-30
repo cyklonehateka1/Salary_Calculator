@@ -3,7 +3,7 @@
 # Built with React Native and Expo
 
 
-<img src="./assets/screenshots/index.jpg" alt="Introduction page" width="200"> <img src="./assets/screenshots/index.jpg" alt="input page" width="200"> <img src="./assets/screenshots/details.jpg" alt="details screen" width="200">
+<img src="./assets/screenshots/index.jpg" alt="Introduction page" width="200"> <img src="./assets/screenshots/salary_calculator.jpg" alt="input page" width="200"> <img src="./assets/screenshots/details.jpg" alt="details screen" width="200">
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
